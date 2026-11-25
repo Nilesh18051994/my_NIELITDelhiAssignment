@@ -1,0 +1,501 @@
+Complaint_ID,Date,State,Department,Complaint_Description,Urgency,Status,Resolution_Days
+JS0001,2025-04-25,Gujarat,Health,I have submitted several requests regarding hospital. The department has not resolved my complaint yet.,Medium,In Progress,14
+JS0002,2025-01-17,Maharashtra,Health,I would like to request information and assistance regarding health services. Kindly guide me.,Low,Pending,8
+JS0003,2025-10-15,Gujarat,Education,I have submitted several requests regarding scholarship. The department has not resolved my complaint yet.,Medium,In Progress,7
+JS0004,2025-05-23,Maharashtra,Social Welfare,I would like to request information and assistance regarding senior citizen benefit. Kindly guide me.,Low,Pending,11
+JS0005,2025-06-22,Maharashtra,Water Supply,I would like to request information and assistance regarding water pipeline. Kindly guide me.,Low,Pending,5
+JS0006,2025-11-06,Madhya Pradesh,Water Supply,I have submitted several requests regarding water supply. The department has not resolved my complaint yet.,Medium,Pending,18
+JS0007,2025-02-10,Karnataka,Water Supply,I would like to request information and assistance regarding water connection. Kindly guide me.,Low,Resolved,8
+JS0008,2025-01-24,Gujarat,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,Resolved,9
+JS0009,2025-05-23,Rajasthan,Health,Urgent complaint regarding doctor. Immediate action is required because the issue is affecting daily life.,High,In Progress,27
+JS0010,2025-05-17,Maharashtra,Electricity,I have submitted several requests regarding power supply. The department has not resolved my complaint yet.,Medium,In Progress,13
+JS0011,2025-08-25,Rajasthan,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,Resolved,12
+JS0012,2025-04-28,Maharashtra,Social Welfare,I have submitted several requests regarding financial assistance. The department has not resolved my complaint yet.,Medium,Resolved,8
+JS0013,2025-06-11,Gujarat,Water Supply,I would like to request information and assistance regarding water pipeline. Kindly guide me.,Low,In Progress,11
+JS0014,2025-08-23,Gujarat,Water Supply,Urgent complaint regarding water shortage. Immediate action is required because the issue is affecting daily life.,High,Resolved,35
+JS0015,2025-05-15,Karnataka,Education,I have submitted several requests regarding scholarship. The department has not resolved my complaint yet.,Medium,Resolved,24
+JS0016,2025-09-18,Rajasthan,Social Welfare,I have submitted several requests regarding senior citizen benefit. The department has not resolved my complaint yet.,Medium,Pending,11
+JS0017,2025-08-05,Karnataka,Health,I would like to request information and assistance regarding hospital. Kindly guide me.,Low,Pending,4
+JS0018,2025-09-28,Madhya Pradesh,Water Supply,I have submitted several requests regarding water shortage. The department has not resolved my complaint yet.,Medium,In Progress,21
+JS0019,2025-05-17,Madhya Pradesh,Health,I have submitted several requests regarding hospital. The department has not resolved my complaint yet.,Medium,Pending,24
+JS0020,2025-05-15,Karnataka,Electricity,I would like to request information and assistance regarding transformer. Kindly guide me.,Low,Pending,2
+JS0021,2025-11-24,Karnataka,Social Welfare,Urgent complaint regarding pension. Immediate action is required because the issue is affecting daily life.,High,In Progress,24
+JS0022,2025-10-04,Karnataka,Education,I have submitted several requests regarding scholarship. The department has not resolved my complaint yet.,Medium,Pending,12
+JS0023,2025-07-05,Madhya Pradesh,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,Pending,10
+JS0024,2025-02-10,Maharashtra,Health,Urgent complaint regarding doctor. Immediate action is required because the issue is affecting daily life.,High,In Progress,45
+JS0025,2025-03-06,Gujarat,Water Supply,Urgent complaint regarding water supply. Immediate action is required because the issue is affecting daily life.,High,In Progress,32
+JS0026,2025-11-07,Rajasthan,Water Supply,I would like to request information and assistance regarding water connection. Kindly guide me.,Low,Pending,10
+JS0027,2025-07-11,Rajasthan,Social Welfare,I have submitted several requests regarding financial assistance. The department has not resolved my complaint yet.,Medium,In Progress,19
+JS0028,2025-06-23,Maharashtra,Water Supply,I would like to request information and assistance regarding water supply. Kindly guide me.,Low,In Progress,3
+JS0029,2025-02-06,Maharashtra,Social Welfare,I have submitted several requests regarding financial assistance. The department has not resolved my complaint yet.,Medium,Pending,7
+JS0030,2025-09-21,Gujarat,Health,Urgent complaint regarding hospital. Immediate action is required because the issue is affecting daily life.,High,Resolved,17
+JS0031,2025-10-23,Rajasthan,Water Supply,I have submitted several requests regarding drinking water. The department has not resolved my complaint yet.,Medium,Pending,25
+JS0032,2025-08-09,Madhya Pradesh,Water Supply,I would like to request information and assistance regarding water shortage. Kindly guide me.,Low,Resolved,3
+JS0033,2025-11-27,Maharashtra,Water Supply,Urgent complaint regarding water shortage. Immediate action is required because the issue is affecting daily life.,High,Pending,16
+JS0034,2025-05-08,Gujarat,Water Supply,Urgent complaint regarding water pipeline. Immediate action is required because the issue is affecting daily life.,High,Pending,18
+JS0035,2025-05-23,Rajasthan,Social Welfare,I would like to request information and assistance regarding senior citizen benefit. Kindly guide me.,Low,Pending,4
+JS0036,2025-10-09,Maharashtra,Health,Urgent complaint regarding medicine. Immediate action is required because the issue is affecting daily life.,High,Pending,42
+JS0037,2025-05-02,Gujarat,Social Welfare,Urgent complaint regarding pension. Immediate action is required because the issue is affecting daily life.,High,Resolved,44
+JS0038,2025-01-31,Gujarat,Water Supply,I would like to request information and assistance regarding water shortage. Kindly guide me.,Low,Resolved,8
+JS0039,2025-08-21,Madhya Pradesh,Health,I would like to request information and assistance regarding medicine. Kindly guide me.,Low,Resolved,14
+JS0040,2025-04-22,Maharashtra,Social Welfare,I would like to request information and assistance regarding senior citizen benefit. Kindly guide me.,Low,In Progress,6
+JS0041,2025-01-26,Karnataka,Social Welfare,I have submitted several requests regarding pension. The department has not resolved my complaint yet.,Medium,Resolved,8
+JS0042,2025-02-11,Gujarat,Social Welfare,I would like to request information and assistance regarding social welfare scheme. Kindly guide me.,Low,Pending,10
+JS0043,2025-07-26,Maharashtra,Social Welfare,I have submitted several requests regarding pension. The department has not resolved my complaint yet.,Medium,In Progress,14
+JS0044,2025-08-03,Karnataka,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,In Progress,9
+JS0045,2025-06-10,Gujarat,Social Welfare,Urgent complaint regarding widow pension. Immediate action is required because the issue is affecting daily life.,High,Resolved,21
+JS0046,2025-08-23,Madhya Pradesh,Water Supply,I have submitted several requests regarding drinking water. The department has not resolved my complaint yet.,Medium,Pending,16
+JS0047,2025-02-21,Maharashtra,Health,I have submitted several requests regarding medicine. The department has not resolved my complaint yet.,Medium,In Progress,25
+JS0048,2025-02-05,Gujarat,Education,I would like to request information and assistance regarding education. Kindly guide me.,Low,Resolved,7
+JS0049,2025-06-04,Karnataka,Electricity,I have submitted several requests regarding power supply. The department has not resolved my complaint yet.,Medium,In Progress,24
+JS0050,2025-06-03,Maharashtra,Social Welfare,I have submitted several requests regarding pension. The department has not resolved my complaint yet.,Medium,Pending,24
+JS0051,2025-10-11,Gujarat,Electricity,Urgent complaint regarding electricity. Immediate action is required because the issue is affecting daily life.,High,Resolved,38
+JS0052,2025-04-15,Madhya Pradesh,Electricity,I would like to request information and assistance regarding power outage. Kindly guide me.,Low,In Progress,7
+JS0053,2025-01-27,Maharashtra,Water Supply,Urgent complaint regarding water pipeline. Immediate action is required because the issue is affecting daily life.,High,In Progress,42
+JS0054,2025-03-08,Madhya Pradesh,Water Supply,I would like to request information and assistance regarding water pipeline. Kindly guide me.,Low,Pending,7
+JS0055,2025-01-05,Maharashtra,Water Supply,I have submitted several requests regarding water connection. The department has not resolved my complaint yet.,Medium,Pending,24
+JS0056,2025-10-26,Karnataka,Education,I would like to request information and assistance regarding education. Kindly guide me.,Low,Pending,7
+JS0057,2025-01-21,Madhya Pradesh,Water Supply,I would like to request information and assistance regarding drinking water. Kindly guide me.,Low,Pending,7
+JS0058,2025-07-28,Karnataka,Education,I have submitted several requests regarding school. The department has not resolved my complaint yet.,Medium,In Progress,24
+JS0059,2025-04-01,Rajasthan,Education,Urgent complaint regarding scholarship. Immediate action is required because the issue is affecting daily life.,High,Pending,40
+JS0060,2025-05-08,Madhya Pradesh,Education,Urgent complaint regarding teacher. Immediate action is required because the issue is affecting daily life.,High,Pending,28
+JS0061,2025-08-29,Gujarat,Health,Urgent complaint regarding medicine. Immediate action is required because the issue is affecting daily life.,High,Pending,42
+JS0062,2025-04-27,Gujarat,Water Supply,I would like to request information and assistance regarding water pipeline. Kindly guide me.,Low,Pending,14
+JS0063,2025-02-05,Madhya Pradesh,Education,I would like to request information and assistance regarding student admission. Kindly guide me.,Low,Resolved,15
+JS0064,2025-06-19,Maharashtra,Social Welfare,I have submitted several requests regarding senior citizen benefit. The department has not resolved my complaint yet.,Medium,Pending,24
+JS0065,2025-01-20,Maharashtra,Electricity,I have submitted several requests regarding power supply. The department has not resolved my complaint yet.,Medium,In Progress,15
+JS0066,2025-08-12,Karnataka,Water Supply,I have submitted several requests regarding water pipeline. The department has not resolved my complaint yet.,Medium,In Progress,17
+JS0067,2025-05-11,Maharashtra,Health,Urgent complaint regarding medicine. Immediate action is required because the issue is affecting daily life.,High,In Progress,21
+JS0068,2025-04-11,Madhya Pradesh,Water Supply,I have submitted several requests regarding water supply. The department has not resolved my complaint yet.,Medium,Resolved,24
+JS0069,2025-06-03,Karnataka,Health,I have submitted several requests regarding medical treatment. The department has not resolved my complaint yet.,Medium,Resolved,10
+JS0070,2025-10-11,Gujarat,Water Supply,I have submitted several requests regarding water pipeline. The department has not resolved my complaint yet.,Medium,Pending,16
+JS0071,2025-11-12,Karnataka,Water Supply,I have submitted several requests regarding water shortage. The department has not resolved my complaint yet.,Medium,Resolved,12
+JS0072,2025-05-27,Gujarat,Water Supply,Urgent complaint regarding water connection. Immediate action is required because the issue is affecting daily life.,High,Resolved,24
+JS0073,2025-08-15,Rajasthan,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,In Progress,21
+JS0074,2025-02-13,Madhya Pradesh,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,In Progress,12
+JS0075,2025-05-01,Madhya Pradesh,Social Welfare,I would like to request information and assistance regarding widow pension. Kindly guide me.,Low,Pending,14
+JS0076,2025-09-01,Karnataka,Education,I would like to request information and assistance regarding scholarship. Kindly guide me.,Low,Pending,5
+JS0077,2025-04-10,Rajasthan,Water Supply,Urgent complaint regarding water shortage. Immediate action is required because the issue is affecting daily life.,High,Resolved,33
+JS0078,2025-01-03,Maharashtra,Water Supply,I would like to request information and assistance regarding drinking water. Kindly guide me.,Low,Resolved,13
+JS0079,2025-09-23,Rajasthan,Education,Urgent complaint regarding scholarship. Immediate action is required because the issue is affecting daily life.,High,Pending,37
+JS0080,2025-08-22,Gujarat,Social Welfare,Urgent complaint regarding financial assistance. Immediate action is required because the issue is affecting daily life.,High,Resolved,18
+JS0081,2025-11-10,Karnataka,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,Resolved,21
+JS0082,2025-09-01,Rajasthan,Social Welfare,Urgent complaint regarding senior citizen benefit. Immediate action is required because the issue is affecting daily life.,High,Resolved,38
+JS0083,2025-09-06,Gujarat,Education,Urgent complaint regarding teacher. Immediate action is required because the issue is affecting daily life.,High,Resolved,31
+JS0084,2025-05-20,Madhya Pradesh,Water Supply,I have submitted several requests regarding water supply. The department has not resolved my complaint yet.,Medium,Resolved,14
+JS0085,2025-07-16,Gujarat,Social Welfare,I would like to request information and assistance regarding pension. Kindly guide me.,Low,In Progress,5
+JS0086,2025-10-05,Rajasthan,Education,I have submitted several requests regarding school. The department has not resolved my complaint yet.,Medium,Resolved,17
+JS0087,2025-10-27,Maharashtra,Health,Urgent complaint regarding doctor. Immediate action is required because the issue is affecting daily life.,High,In Progress,27
+JS0088,2025-06-02,Rajasthan,Water Supply,I would like to request information and assistance regarding water shortage. Kindly guide me.,Low,Resolved,7
+JS0089,2025-04-23,Rajasthan,Social Welfare,Urgent complaint regarding social welfare scheme. Immediate action is required because the issue is affecting daily life.,High,Pending,43
+JS0090,2025-06-22,Rajasthan,Electricity,I have submitted several requests regarding transformer. The department has not resolved my complaint yet.,Medium,In Progress,19
+JS0091,2025-10-01,Maharashtra,Education,Urgent complaint regarding student admission. Immediate action is required because the issue is affecting daily life.,High,Resolved,34
+JS0092,2025-11-26,Rajasthan,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,Pending,9
+JS0093,2025-06-17,Gujarat,Water Supply,I would like to request information and assistance regarding drinking water. Kindly guide me.,Low,Resolved,8
+JS0094,2025-05-23,Rajasthan,Electricity,Urgent complaint regarding electricity bill. Immediate action is required because the issue is affecting daily life.,High,Resolved,27
+JS0095,2025-01-27,Madhya Pradesh,Health,I would like to request information and assistance regarding medicine. Kindly guide me.,Low,Pending,10
+JS0096,2025-05-07,Gujarat,Health,Urgent complaint regarding hospital. Immediate action is required because the issue is affecting daily life.,High,Pending,45
+JS0097,2025-02-28,Karnataka,Social Welfare,I would like to request information and assistance regarding financial assistance. Kindly guide me.,Low,Pending,9
+JS0098,2025-11-07,Karnataka,Water Supply,Urgent complaint regarding water pipeline. Immediate action is required because the issue is affecting daily life.,High,In Progress,20
+JS0099,2025-10-24,Maharashtra,Health,Urgent complaint regarding doctor. Immediate action is required because the issue is affecting daily life.,High,Resolved,18
+JS0100,2025-02-08,Karnataka,Social Welfare,I have submitted several requests regarding senior citizen benefit. The department has not resolved my complaint yet.,Medium,In Progress,13
+JS0101,2025-11-04,Maharashtra,Education,I have submitted several requests regarding school. The department has not resolved my complaint yet.,Medium,In Progress,16
+JS0102,2025-02-05,Karnataka,Health,I have submitted several requests regarding medical treatment. The department has not resolved my complaint yet.,Medium,In Progress,18
+JS0103,2025-09-08,Maharashtra,Electricity,Urgent complaint regarding electricity. Immediate action is required because the issue is affecting daily life.,High,Resolved,41
+JS0104,2025-04-01,Karnataka,Electricity,I have submitted several requests regarding transformer. The department has not resolved my complaint yet.,Medium,In Progress,20
+JS0105,2025-09-05,Rajasthan,Electricity,Urgent complaint regarding power outage. Immediate action is required because the issue is affecting daily life.,High,Resolved,32
+JS0106,2025-02-14,Madhya Pradesh,Social Welfare,I would like to request information and assistance regarding widow pension. Kindly guide me.,Low,Resolved,5
+JS0107,2025-06-22,Maharashtra,Education,I have submitted several requests regarding student admission. The department has not resolved my complaint yet.,Medium,Resolved,19
+JS0108,2025-05-13,Madhya Pradesh,Electricity,I have submitted several requests regarding power supply. The department has not resolved my complaint yet.,Medium,Resolved,18
+JS0109,2025-04-08,Maharashtra,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,Pending,23
+JS0110,2025-09-01,Rajasthan,Water Supply,I have submitted several requests regarding water shortage. The department has not resolved my complaint yet.,Medium,Resolved,14
+JS0111,2025-05-05,Madhya Pradesh,Health,I would like to request information and assistance regarding hospital. Kindly guide me.,Low,In Progress,8
+JS0112,2025-06-26,Rajasthan,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,In Progress,23
+JS0113,2025-05-19,Madhya Pradesh,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,Resolved,21
+JS0114,2025-03-03,Karnataka,Education,I have submitted several requests regarding school. The department has not resolved my complaint yet.,Medium,In Progress,17
+JS0115,2025-05-22,Karnataka,Education,I would like to request information and assistance regarding scholarship. Kindly guide me.,Low,In Progress,9
+JS0116,2025-04-10,Madhya Pradesh,Social Welfare,Urgent complaint regarding widow pension. Immediate action is required because the issue is affecting daily life.,High,Pending,41
+JS0117,2025-10-01,Gujarat,Electricity,I would like to request information and assistance regarding power supply. Kindly guide me.,Low,Resolved,13
+JS0118,2025-11-23,Rajasthan,Health,I have submitted several requests regarding hospital. The department has not resolved my complaint yet.,Medium,Pending,11
+JS0119,2025-08-14,Madhya Pradesh,Health,I would like to request information and assistance regarding health services. Kindly guide me.,Low,Pending,9
+JS0120,2025-02-28,Maharashtra,Health,Urgent complaint regarding medical treatment. Immediate action is required because the issue is affecting daily life.,High,Resolved,30
+JS0121,2025-03-19,Gujarat,Water Supply,I have submitted several requests regarding water supply. The department has not resolved my complaint yet.,Medium,In Progress,8
+JS0122,2025-10-13,Rajasthan,Electricity,Urgent complaint regarding electricity. Immediate action is required because the issue is affecting daily life.,High,In Progress,18
+JS0123,2025-07-14,Rajasthan,Social Welfare,I would like to request information and assistance regarding social welfare scheme. Kindly guide me.,Low,Resolved,10
+JS0124,2025-10-19,Karnataka,Electricity,Urgent complaint regarding power outage. Immediate action is required because the issue is affecting daily life.,High,Pending,24
+JS0125,2025-11-17,Gujarat,Social Welfare,Urgent complaint regarding pension. Immediate action is required because the issue is affecting daily life.,High,Resolved,21
+JS0126,2025-02-08,Gujarat,Health,I would like to request information and assistance regarding doctor. Kindly guide me.,Low,Pending,10
+JS0127,2025-05-30,Maharashtra,Water Supply,I have submitted several requests regarding water shortage. The department has not resolved my complaint yet.,Medium,Pending,22
+JS0128,2025-02-06,Gujarat,Electricity,I have submitted several requests regarding electricity bill. The department has not resolved my complaint yet.,Medium,Resolved,21
+JS0129,2025-04-26,Gujarat,Social Welfare,I have submitted several requests regarding financial assistance. The department has not resolved my complaint yet.,Medium,Resolved,24
+JS0130,2025-06-07,Karnataka,Education,I would like to request information and assistance regarding school. Kindly guide me.,Low,In Progress,14
+JS0131,2025-06-05,Rajasthan,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,Resolved,21
+JS0132,2025-11-03,Maharashtra,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,Resolved,9
+JS0133,2025-04-28,Karnataka,Electricity,I would like to request information and assistance regarding power outage. Kindly guide me.,Low,In Progress,3
+JS0134,2025-08-29,Karnataka,Health,I have submitted several requests regarding medical treatment. The department has not resolved my complaint yet.,Medium,In Progress,12
+JS0135,2025-08-12,Rajasthan,Water Supply,I would like to request information and assistance regarding water pipeline. Kindly guide me.,Low,Pending,11
+JS0136,2025-02-23,Gujarat,Water Supply,I have submitted several requests regarding water pipeline. The department has not resolved my complaint yet.,Medium,Resolved,17
+JS0137,2025-10-09,Maharashtra,Water Supply,I would like to request information and assistance regarding water shortage. Kindly guide me.,Low,Resolved,8
+JS0138,2025-07-26,Karnataka,Health,I would like to request information and assistance regarding medical treatment. Kindly guide me.,Low,Pending,3
+JS0139,2025-09-23,Madhya Pradesh,Social Welfare,I have submitted several requests regarding senior citizen benefit. The department has not resolved my complaint yet.,Medium,In Progress,13
+JS0140,2025-05-17,Karnataka,Water Supply,Urgent complaint regarding water shortage. Immediate action is required because the issue is affecting daily life.,High,Pending,21
+JS0141,2025-03-04,Maharashtra,Electricity,Urgent complaint regarding transformer. Immediate action is required because the issue is affecting daily life.,High,In Progress,30
+JS0142,2025-10-10,Maharashtra,Social Welfare,I have submitted several requests regarding financial assistance. The department has not resolved my complaint yet.,Medium,In Progress,16
+JS0143,2025-02-28,Rajasthan,Water Supply,I would like to request information and assistance regarding water supply. Kindly guide me.,Low,Pending,15
+JS0144,2025-09-18,Madhya Pradesh,Education,Urgent complaint regarding student admission. Immediate action is required because the issue is affecting daily life.,High,Resolved,24
+JS0145,2025-03-16,Rajasthan,Water Supply,I would like to request information and assistance regarding water shortage. Kindly guide me.,Low,Pending,10
+JS0146,2025-02-05,Madhya Pradesh,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,Resolved,11
+JS0147,2025-05-25,Madhya Pradesh,Electricity,I would like to request information and assistance regarding power outage. Kindly guide me.,Low,In Progress,2
+JS0148,2025-10-03,Rajasthan,Social Welfare,Urgent complaint regarding senior citizen benefit. Immediate action is required because the issue is affecting daily life.,High,Resolved,29
+JS0149,2025-08-22,Madhya Pradesh,Electricity,Urgent complaint regarding power outage. Immediate action is required because the issue is affecting daily life.,High,Pending,27
+JS0150,2025-01-23,Madhya Pradesh,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,In Progress,20
+JS0151,2025-09-11,Maharashtra,Water Supply,I have submitted several requests regarding water shortage. The department has not resolved my complaint yet.,Medium,Pending,11
+JS0152,2025-08-14,Maharashtra,Social Welfare,I would like to request information and assistance regarding social welfare scheme. Kindly guide me.,Low,In Progress,3
+JS0153,2025-03-21,Maharashtra,Water Supply,I have submitted several requests regarding water supply. The department has not resolved my complaint yet.,Medium,Resolved,20
+JS0154,2025-02-11,Madhya Pradesh,Electricity,I have submitted several requests regarding electricity bill. The department has not resolved my complaint yet.,Medium,In Progress,19
+JS0155,2025-09-07,Karnataka,Social Welfare,Urgent complaint regarding senior citizen benefit. Immediate action is required because the issue is affecting daily life.,High,Pending,35
+JS0156,2025-05-28,Gujarat,Social Welfare,I would like to request information and assistance regarding pension. Kindly guide me.,Low,In Progress,12
+JS0157,2025-11-21,Maharashtra,Health,Urgent complaint regarding medicine. Immediate action is required because the issue is affecting daily life.,High,Resolved,39
+JS0158,2025-06-16,Maharashtra,Education,Urgent complaint regarding teacher. Immediate action is required because the issue is affecting daily life.,High,Resolved,16
+JS0159,2025-09-29,Rajasthan,Electricity,I have submitted several requests regarding electricity bill. The department has not resolved my complaint yet.,Medium,In Progress,14
+JS0160,2025-07-15,Karnataka,Education,I would like to request information and assistance regarding scholarship. Kindly guide me.,Low,In Progress,11
+JS0161,2025-04-29,Rajasthan,Education,Urgent complaint regarding student admission. Immediate action is required because the issue is affecting daily life.,High,In Progress,19
+JS0162,2025-08-27,Madhya Pradesh,Electricity,I would like to request information and assistance regarding transformer. Kindly guide me.,Low,In Progress,2
+JS0163,2025-10-28,Madhya Pradesh,Social Welfare,I would like to request information and assistance regarding financial assistance. Kindly guide me.,Low,In Progress,7
+JS0164,2025-04-12,Rajasthan,Water Supply,I have submitted several requests regarding water pipeline. The department has not resolved my complaint yet.,Medium,Resolved,16
+JS0165,2025-10-22,Madhya Pradesh,Health,I have submitted several requests regarding doctor. The department has not resolved my complaint yet.,Medium,In Progress,18
+JS0166,2025-07-22,Madhya Pradesh,Electricity,Urgent complaint regarding electricity. Immediate action is required because the issue is affecting daily life.,High,Pending,36
+JS0167,2025-09-12,Madhya Pradesh,Social Welfare,Urgent complaint regarding pension. Immediate action is required because the issue is affecting daily life.,High,Pending,38
+JS0168,2025-11-14,Madhya Pradesh,Social Welfare,I would like to request information and assistance regarding widow pension. Kindly guide me.,Low,In Progress,5
+JS0169,2025-01-21,Madhya Pradesh,Education,Urgent complaint regarding school. Immediate action is required because the issue is affecting daily life.,High,Resolved,35
+JS0170,2025-02-16,Madhya Pradesh,Health,I have submitted several requests regarding health services. The department has not resolved my complaint yet.,Medium,Resolved,11
+JS0171,2025-10-04,Madhya Pradesh,Water Supply,I would like to request information and assistance regarding drinking water. Kindly guide me.,Low,In Progress,14
+JS0172,2025-09-04,Madhya Pradesh,Social Welfare,Urgent complaint regarding widow pension. Immediate action is required because the issue is affecting daily life.,High,In Progress,23
+JS0173,2025-03-14,Gujarat,Electricity,I have submitted several requests regarding electricity. The department has not resolved my complaint yet.,Medium,In Progress,9
+JS0174,2025-01-08,Madhya Pradesh,Water Supply,I have submitted several requests regarding water connection. The department has not resolved my complaint yet.,Medium,In Progress,19
+JS0175,2025-10-27,Rajasthan,Health,I have submitted several requests regarding medicine. The department has not resolved my complaint yet.,Medium,In Progress,15
+JS0176,2025-01-13,Karnataka,Electricity,I have submitted several requests regarding electricity. The department has not resolved my complaint yet.,Medium,In Progress,22
+JS0177,2025-11-22,Rajasthan,Electricity,I would like to request information and assistance regarding power outage. Kindly guide me.,Low,In Progress,3
+JS0178,2025-01-20,Madhya Pradesh,Electricity,I would like to request information and assistance regarding transformer. Kindly guide me.,Low,Resolved,2
+JS0179,2025-03-11,Rajasthan,Health,I would like to request information and assistance regarding hospital. Kindly guide me.,Low,Resolved,10
+JS0180,2025-08-01,Maharashtra,Electricity,I have submitted several requests regarding power outage. The department has not resolved my complaint yet.,Medium,Resolved,11
+JS0181,2025-01-17,Madhya Pradesh,Social Welfare,Urgent complaint regarding senior citizen benefit. Immediate action is required because the issue is affecting daily life.,High,Pending,23
+JS0182,2025-07-05,Maharashtra,Water Supply,Urgent complaint regarding water shortage. Immediate action is required because the issue is affecting daily life.,High,In Progress,42
+JS0183,2025-07-03,Maharashtra,Electricity,Urgent complaint regarding power outage. Immediate action is required because the issue is affecting daily life.,High,Resolved,35
+JS0184,2025-08-21,Maharashtra,Electricity,Urgent complaint regarding power supply. Immediate action is required because the issue is affecting daily life.,High,In Progress,45
+JS0185,2025-06-20,Gujarat,Education,Urgent complaint regarding education. Immediate action is required because the issue is affecting daily life.,High,Pending,16
+JS0186,2025-10-11,Gujarat,Social Welfare,I would like to request information and assistance regarding financial assistance. Kindly guide me.,Low,In Progress,14
+JS0187,2025-11-02,Maharashtra,Education,I would like to request information and assistance regarding scholarship. Kindly guide me.,Low,Resolved,4
+JS0188,2025-02-26,Maharashtra,Education,I have submitted several requests regarding scholarship. The department has not resolved my complaint yet.,Medium,Pending,12
+JS0189,2025-10-29,Madhya Pradesh,Health,Urgent complaint regarding medical treatment. Immediate action is required because the issue is affecting daily life.,High,Pending,22
+JS0190,2025-08-04,Karnataka,Education,I would like to request information and assistance regarding teacher. Kindly guide me.,Low,Pending,13
+JS0191,2025-09-20,Karnataka,Health,I have submitted several requests regarding medicine. The department has not resolved my complaint yet.,Medium,Pending,18
+JS0192,2025-01-23,Karnataka,Water Supply,I would like to request information and assistance regarding water connection. Kindly guide me.,Low,Resolved,11
+JS0193,2025-07-25,Rajasthan,Water Supply,I would like to request information and assistance regarding water supply. Kindly guide me.,Low,In Progress,9
+JS0194,2025-02-07,Maharashtra,Health,I have submitted several requests regarding medicine. The department has not resolved my complaint yet.,Medium,Resolved,21
+JS0195,2025-11-16,Karnataka,Social Welfare,I would like to request information and assistance regarding financial assistance. Kindly guide me.,Low,In Progress,6
+JS0196,2025-05-31,Rajasthan,Electricity,Urgent complaint regarding transformer. Immediate action is required because the issue is affecting daily life.,High,In Progress,31
+JS0197,2025-02-28,Karnataka,Social Welfare,I would like to request information and assistance regarding senior citizen benefit. Kindly guide me.,Low,In Progress,13
+JS0198,2025-07-31,Madhya Pradesh,Education,I have submitted several requests regarding student admission. The department has not resolved my complaint yet.,Medium,Resolved,14
+JS0199,2025-08-07,Madhya Pradesh,Water Supply,I have submitted several requests regarding water shortage. The department has not resolved my complaint yet.,Medium,In Progress,17
+JS0200,2025-08-31,Maharashtra,Electricity,Urgent complaint regarding electricity bill. Immediate action is required because the issue is affecting daily life.,High,Pending,36
+JS0201,2025-03-08,Karnataka,Health,I have submitted several requests regarding hospital. The department has not resolved my complaint yet.,Medium,Pending,18
+JS0202,2025-07-30,Madhya Pradesh,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,In Progress,10
+JS0203,2025-06-09,Madhya Pradesh,Water Supply,Urgent complaint regarding water supply. Immediate action is required because the issue is affecting daily life.,High,Pending,34
+JS0204,2025-09-04,Gujarat,Social Welfare,I would like to request information and assistance regarding social welfare scheme. Kindly guide me.,Low,Pending,12
+JS0205,2025-10-21,Gujarat,Electricity,I have submitted several requests regarding power outage. The department has not resolved my complaint yet.,Medium,Resolved,15
+JS0206,2025-01-14,Karnataka,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,In Progress,24
+JS0207,2025-06-08,Madhya Pradesh,Electricity,I would like to request information and assistance regarding electricity. Kindly guide me.,Low,Resolved,13
+JS0208,2025-07-25,Maharashtra,Health,Urgent complaint regarding doctor. Immediate action is required because the issue is affecting daily life.,High,Pending,33
+JS0209,2025-07-12,Rajasthan,Health,I have submitted several requests regarding hospital. The department has not resolved my complaint yet.,Medium,Resolved,13
+JS0210,2025-10-18,Karnataka,Electricity,I have submitted several requests regarding power supply. The department has not resolved my complaint yet.,Medium,Pending,17
+JS0211,2025-01-26,Maharashtra,Health,I would like to request information and assistance regarding doctor. Kindly guide me.,Low,Resolved,11
+JS0212,2025-08-01,Madhya Pradesh,Water Supply,I have submitted several requests regarding water shortage. The department has not resolved my complaint yet.,Medium,Pending,21
+JS0213,2025-05-26,Karnataka,Social Welfare,I would like to request information and assistance regarding pension. Kindly guide me.,Low,Resolved,3
+JS0214,2025-11-03,Maharashtra,Social Welfare,I would like to request information and assistance regarding widow pension. Kindly guide me.,Low,Pending,8
+JS0215,2025-03-12,Madhya Pradesh,Education,Urgent complaint regarding teacher. Immediate action is required because the issue is affecting daily life.,High,Resolved,39
+JS0216,2025-08-09,Gujarat,Electricity,I would like to request information and assistance regarding electricity. Kindly guide me.,Low,Pending,13
+JS0217,2025-10-14,Madhya Pradesh,Water Supply,I have submitted several requests regarding water connection. The department has not resolved my complaint yet.,Medium,Pending,23
+JS0218,2025-02-09,Madhya Pradesh,Water Supply,I have submitted several requests regarding water supply. The department has not resolved my complaint yet.,Medium,In Progress,21
+JS0219,2025-05-29,Maharashtra,Water Supply,I have submitted several requests regarding water connection. The department has not resolved my complaint yet.,Medium,Resolved,20
+JS0220,2025-08-24,Madhya Pradesh,Health,I would like to request information and assistance regarding medical treatment. Kindly guide me.,Low,Pending,11
+JS0221,2025-07-25,Karnataka,Water Supply,I would like to request information and assistance regarding water supply. Kindly guide me.,Low,Pending,11
+JS0222,2025-06-20,Gujarat,Water Supply,I have submitted several requests regarding water pipeline. The department has not resolved my complaint yet.,Medium,Pending,14
+JS0223,2025-06-28,Madhya Pradesh,Social Welfare,I have submitted several requests regarding pension. The department has not resolved my complaint yet.,Medium,In Progress,13
+JS0224,2025-04-12,Gujarat,Education,I would like to request information and assistance regarding scholarship. Kindly guide me.,Low,In Progress,6
+JS0225,2025-11-18,Rajasthan,Education,I would like to request information and assistance regarding school. Kindly guide me.,Low,Resolved,14
+JS0226,2025-11-26,Karnataka,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,Resolved,25
+JS0227,2025-08-15,Madhya Pradesh,Electricity,I have submitted several requests regarding power supply. The department has not resolved my complaint yet.,Medium,Resolved,22
+JS0228,2025-06-08,Rajasthan,Social Welfare,I have submitted several requests regarding pension. The department has not resolved my complaint yet.,Medium,Resolved,9
+JS0229,2025-02-09,Maharashtra,Health,I have submitted several requests regarding hospital. The department has not resolved my complaint yet.,Medium,In Progress,16
+JS0230,2025-10-11,Maharashtra,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,Resolved,25
+JS0231,2025-09-14,Gujarat,Social Welfare,I would like to request information and assistance regarding financial assistance. Kindly guide me.,Low,Pending,9
+JS0232,2025-06-25,Maharashtra,Water Supply,Urgent complaint regarding water supply. Immediate action is required because the issue is affecting daily life.,High,In Progress,41
+JS0233,2025-08-13,Karnataka,Education,I would like to request information and assistance regarding school. Kindly guide me.,Low,In Progress,9
+JS0234,2025-07-18,Rajasthan,Social Welfare,I have submitted several requests regarding financial assistance. The department has not resolved my complaint yet.,Medium,Resolved,16
+JS0235,2025-06-21,Maharashtra,Social Welfare,Urgent complaint regarding pension. Immediate action is required because the issue is affecting daily life.,High,Resolved,35
+JS0236,2025-05-10,Karnataka,Health,I have submitted several requests regarding health services. The department has not resolved my complaint yet.,Medium,Pending,16
+JS0237,2025-06-29,Madhya Pradesh,Electricity,I have submitted several requests regarding electricity. The department has not resolved my complaint yet.,Medium,In Progress,11
+JS0238,2025-06-08,Karnataka,Water Supply,I have submitted several requests regarding drinking water. The department has not resolved my complaint yet.,Medium,Resolved,9
+JS0239,2025-02-17,Rajasthan,Electricity,I have submitted several requests regarding power supply. The department has not resolved my complaint yet.,Medium,In Progress,23
+JS0240,2025-04-20,Madhya Pradesh,Electricity,I have submitted several requests regarding electricity. The department has not resolved my complaint yet.,Medium,Resolved,12
+JS0241,2025-02-09,Madhya Pradesh,Education,Urgent complaint regarding scholarship. Immediate action is required because the issue is affecting daily life.,High,Pending,19
+JS0242,2025-09-27,Maharashtra,Social Welfare,Urgent complaint regarding social welfare scheme. Immediate action is required because the issue is affecting daily life.,High,In Progress,43
+JS0243,2025-03-20,Gujarat,Electricity,I would like to request information and assistance regarding power outage. Kindly guide me.,Low,Pending,8
+JS0244,2025-07-30,Madhya Pradesh,Social Welfare,I have submitted several requests regarding financial assistance. The department has not resolved my complaint yet.,Medium,In Progress,8
+JS0245,2025-04-30,Karnataka,Education,I have submitted several requests regarding student admission. The department has not resolved my complaint yet.,Medium,Pending,21
+JS0246,2025-07-08,Karnataka,Electricity,Urgent complaint regarding transformer. Immediate action is required because the issue is affecting daily life.,High,Resolved,21
+JS0247,2025-09-28,Rajasthan,Water Supply,Urgent complaint regarding water pipeline. Immediate action is required because the issue is affecting daily life.,High,Pending,31
+JS0248,2025-01-27,Rajasthan,Education,I would like to request information and assistance regarding education. Kindly guide me.,Low,Resolved,6
+JS0249,2025-03-05,Madhya Pradesh,Social Welfare,I have submitted several requests regarding pension. The department has not resolved my complaint yet.,Medium,Pending,23
+JS0250,2025-03-17,Rajasthan,Education,I have submitted several requests regarding teacher. The department has not resolved my complaint yet.,Medium,Pending,23
+JS0251,2025-01-14,Rajasthan,Education,Urgent complaint regarding student admission. Immediate action is required because the issue is affecting daily life.,High,Pending,44
+JS0252,2025-02-11,Madhya Pradesh,Water Supply,I have submitted several requests regarding water connection. The department has not resolved my complaint yet.,Medium,Pending,19
+JS0253,2025-06-21,Gujarat,Health,Urgent complaint regarding medical treatment. Immediate action is required because the issue is affecting daily life.,High,Pending,41
+JS0254,2025-03-13,Rajasthan,Health,Urgent complaint regarding medical treatment. Immediate action is required because the issue is affecting daily life.,High,Resolved,30
+JS0255,2025-05-12,Gujarat,Social Welfare,Urgent complaint regarding pension. Immediate action is required because the issue is affecting daily life.,High,Pending,15
+JS0256,2025-05-28,Gujarat,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,Resolved,10
+JS0257,2025-11-15,Rajasthan,Health,I would like to request information and assistance regarding hospital. Kindly guide me.,Low,Pending,12
+JS0258,2025-11-20,Karnataka,Health,I have submitted several requests regarding medicine. The department has not resolved my complaint yet.,Medium,In Progress,7
+JS0259,2025-11-11,Madhya Pradesh,Education,I would like to request information and assistance regarding scholarship. Kindly guide me.,Low,Pending,2
+JS0260,2025-02-13,Karnataka,Social Welfare,I would like to request information and assistance regarding senior citizen benefit. Kindly guide me.,Low,Resolved,12
+JS0261,2025-10-11,Maharashtra,Health,I have submitted several requests regarding health services. The department has not resolved my complaint yet.,Medium,Resolved,23
+JS0262,2025-05-10,Maharashtra,Water Supply,I have submitted several requests regarding water supply. The department has not resolved my complaint yet.,Medium,Resolved,18
+JS0263,2025-11-18,Maharashtra,Health,I would like to request information and assistance regarding medical treatment. Kindly guide me.,Low,In Progress,12
+JS0264,2025-06-23,Gujarat,Electricity,I would like to request information and assistance regarding power supply. Kindly guide me.,Low,In Progress,10
+JS0265,2025-02-02,Rajasthan,Water Supply,I have submitted several requests regarding water shortage. The department has not resolved my complaint yet.,Medium,Pending,11
+JS0266,2025-01-22,Madhya Pradesh,Electricity,I would like to request information and assistance regarding power supply. Kindly guide me.,Low,Resolved,5
+JS0267,2025-08-31,Madhya Pradesh,Social Welfare,Urgent complaint regarding senior citizen benefit. Immediate action is required because the issue is affecting daily life.,High,Pending,32
+JS0268,2025-06-19,Madhya Pradesh,Education,I have submitted several requests regarding teacher. The department has not resolved my complaint yet.,Medium,Pending,8
+JS0269,2025-08-14,Rajasthan,Electricity,Urgent complaint regarding transformer. Immediate action is required because the issue is affecting daily life.,High,Resolved,38
+JS0270,2025-09-23,Madhya Pradesh,Education,I have submitted several requests regarding student admission. The department has not resolved my complaint yet.,Medium,Pending,18
+JS0271,2025-10-07,Madhya Pradesh,Water Supply,I have submitted several requests regarding water supply. The department has not resolved my complaint yet.,Medium,Resolved,12
+JS0272,2025-06-06,Rajasthan,Health,I would like to request information and assistance regarding hospital. Kindly guide me.,Low,In Progress,6
+JS0273,2025-08-17,Maharashtra,Water Supply,I have submitted several requests regarding drinking water. The department has not resolved my complaint yet.,Medium,In Progress,18
+JS0274,2025-11-24,Maharashtra,Electricity,Urgent complaint regarding power outage. Immediate action is required because the issue is affecting daily life.,High,Pending,23
+JS0275,2025-01-16,Gujarat,Water Supply,I have submitted several requests regarding water pipeline. The department has not resolved my complaint yet.,Medium,In Progress,12
+JS0276,2025-11-27,Madhya Pradesh,Water Supply,I would like to request information and assistance regarding water supply. Kindly guide me.,Low,Resolved,5
+JS0277,2025-08-19,Madhya Pradesh,Water Supply,I would like to request information and assistance regarding water connection. Kindly guide me.,Low,Resolved,4
+JS0278,2025-07-07,Rajasthan,Water Supply,I have submitted several requests regarding water supply. The department has not resolved my complaint yet.,Medium,Resolved,23
+JS0279,2025-04-06,Rajasthan,Electricity,Urgent complaint regarding power supply. Immediate action is required because the issue is affecting daily life.,High,In Progress,15
+JS0280,2025-05-14,Rajasthan,Water Supply,I would like to request information and assistance regarding water connection. Kindly guide me.,Low,Pending,14
+JS0281,2025-04-13,Maharashtra,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,Pending,22
+JS0282,2025-08-16,Maharashtra,Health,I would like to request information and assistance regarding medicine. Kindly guide me.,Low,In Progress,13
+JS0283,2025-10-05,Madhya Pradesh,Electricity,I have submitted several requests regarding electricity bill. The department has not resolved my complaint yet.,Medium,Resolved,24
+JS0284,2025-04-25,Maharashtra,Education,Urgent complaint regarding scholarship. Immediate action is required because the issue is affecting daily life.,High,Pending,31
+JS0285,2025-07-04,Karnataka,Education,Urgent complaint regarding scholarship. Immediate action is required because the issue is affecting daily life.,High,In Progress,15
+JS0286,2025-03-08,Karnataka,Electricity,Urgent complaint regarding transformer. Immediate action is required because the issue is affecting daily life.,High,Pending,32
+JS0287,2025-09-27,Rajasthan,Health,I have submitted several requests regarding medical treatment. The department has not resolved my complaint yet.,Medium,Resolved,22
+JS0288,2025-11-25,Maharashtra,Social Welfare,I would like to request information and assistance regarding pension. Kindly guide me.,Low,Resolved,7
+JS0289,2025-10-10,Karnataka,Water Supply,I would like to request information and assistance regarding water connection. Kindly guide me.,Low,Pending,15
+JS0290,2025-03-05,Karnataka,Education,I have submitted several requests regarding student admission. The department has not resolved my complaint yet.,Medium,Pending,8
+JS0291,2025-04-26,Madhya Pradesh,Electricity,I would like to request information and assistance regarding power supply. Kindly guide me.,Low,In Progress,13
+JS0292,2025-10-10,Madhya Pradesh,Electricity,I would like to request information and assistance regarding electricity. Kindly guide me.,Low,Pending,12
+JS0293,2025-11-25,Gujarat,Electricity,I have submitted several requests regarding power outage. The department has not resolved my complaint yet.,Medium,In Progress,23
+JS0294,2025-11-06,Madhya Pradesh,Social Welfare,I would like to request information and assistance regarding financial assistance. Kindly guide me.,Low,In Progress,11
+JS0295,2025-10-23,Madhya Pradesh,Health,I would like to request information and assistance regarding hospital. Kindly guide me.,Low,In Progress,12
+JS0296,2025-09-12,Karnataka,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,Resolved,7
+JS0297,2025-07-27,Madhya Pradesh,Electricity,I would like to request information and assistance regarding transformer. Kindly guide me.,Low,Resolved,14
+JS0298,2025-09-05,Rajasthan,Health,I would like to request information and assistance regarding hospital. Kindly guide me.,Low,Pending,8
+JS0299,2025-06-13,Madhya Pradesh,Electricity,I would like to request information and assistance regarding power outage. Kindly guide me.,Low,Resolved,15
+JS0300,2025-06-13,Gujarat,Education,I have submitted several requests regarding teacher. The department has not resolved my complaint yet.,Medium,Resolved,10
+JS0301,2025-02-19,Maharashtra,Health,I have submitted several requests regarding medical treatment. The department has not resolved my complaint yet.,Medium,Resolved,11
+JS0302,2025-06-17,Karnataka,Water Supply,I have submitted several requests regarding water connection. The department has not resolved my complaint yet.,Medium,In Progress,12
+JS0303,2025-09-21,Rajasthan,Electricity,Urgent complaint regarding power supply. Immediate action is required because the issue is affecting daily life.,High,Resolved,30
+JS0304,2025-09-16,Rajasthan,Electricity,I would like to request information and assistance regarding transformer. Kindly guide me.,Low,Pending,8
+JS0305,2025-05-25,Rajasthan,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,In Progress,8
+JS0306,2025-08-09,Gujarat,Water Supply,I have submitted several requests regarding water pipeline. The department has not resolved my complaint yet.,Medium,Resolved,10
+JS0307,2025-01-27,Karnataka,Electricity,I have submitted several requests regarding transformer. The department has not resolved my complaint yet.,Medium,In Progress,19
+JS0308,2025-07-17,Karnataka,Education,I have submitted several requests regarding teacher. The department has not resolved my complaint yet.,Medium,Resolved,9
+JS0309,2025-11-09,Maharashtra,Social Welfare,Urgent complaint regarding widow pension. Immediate action is required because the issue is affecting daily life.,High,Pending,34
+JS0310,2025-10-13,Madhya Pradesh,Health,I have submitted several requests regarding medicine. The department has not resolved my complaint yet.,Medium,Pending,17
+JS0311,2025-01-21,Maharashtra,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,Pending,23
+JS0312,2025-08-22,Gujarat,Education,Urgent complaint regarding teacher. Immediate action is required because the issue is affecting daily life.,High,In Progress,31
+JS0313,2025-06-13,Gujarat,Social Welfare,I would like to request information and assistance regarding financial assistance. Kindly guide me.,Low,Resolved,11
+JS0314,2025-09-18,Karnataka,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,Resolved,23
+JS0315,2025-07-08,Madhya Pradesh,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,In Progress,7
+JS0316,2025-11-02,Rajasthan,Health,I have submitted several requests regarding medicine. The department has not resolved my complaint yet.,Medium,Resolved,7
+JS0317,2025-10-26,Rajasthan,Social Welfare,I would like to request information and assistance regarding social welfare scheme. Kindly guide me.,Low,Pending,2
+JS0318,2025-03-17,Gujarat,Social Welfare,Urgent complaint regarding social welfare scheme. Immediate action is required because the issue is affecting daily life.,High,Pending,27
+JS0319,2025-06-10,Rajasthan,Social Welfare,I would like to request information and assistance regarding pension. Kindly guide me.,Low,Pending,9
+JS0320,2025-02-01,Gujarat,Water Supply,I have submitted several requests regarding drinking water. The department has not resolved my complaint yet.,Medium,In Progress,22
+JS0321,2025-09-02,Karnataka,Education,I would like to request information and assistance regarding education. Kindly guide me.,Low,Resolved,12
+JS0322,2025-06-25,Karnataka,Electricity,I have submitted several requests regarding power supply. The department has not resolved my complaint yet.,Medium,Resolved,24
+JS0323,2025-05-23,Karnataka,Electricity,I have submitted several requests regarding power outage. The department has not resolved my complaint yet.,Medium,Resolved,14
+JS0324,2025-04-17,Rajasthan,Education,Urgent complaint regarding teacher. Immediate action is required because the issue is affecting daily life.,High,Resolved,37
+JS0325,2025-05-28,Maharashtra,Water Supply,I have submitted several requests regarding water pipeline. The department has not resolved my complaint yet.,Medium,In Progress,15
+JS0326,2025-06-26,Gujarat,Social Welfare,Urgent complaint regarding senior citizen benefit. Immediate action is required because the issue is affecting daily life.,High,Resolved,27
+JS0327,2025-06-27,Rajasthan,Health,Urgent complaint regarding medical treatment. Immediate action is required because the issue is affecting daily life.,High,In Progress,17
+JS0328,2025-10-03,Madhya Pradesh,Electricity,I would like to request information and assistance regarding transformer. Kindly guide me.,Low,In Progress,15
+JS0329,2025-10-28,Gujarat,Electricity,I would like to request information and assistance regarding power supply. Kindly guide me.,Low,Pending,13
+JS0330,2025-01-27,Maharashtra,Health,I would like to request information and assistance regarding health services. Kindly guide me.,Low,Resolved,5
+JS0331,2025-03-12,Maharashtra,Electricity,I would like to request information and assistance regarding transformer. Kindly guide me.,Low,In Progress,14
+JS0332,2025-09-02,Gujarat,Education,I have submitted several requests regarding student admission. The department has not resolved my complaint yet.,Medium,Resolved,22
+JS0333,2025-10-21,Gujarat,Electricity,I have submitted several requests regarding electricity bill. The department has not resolved my complaint yet.,Medium,In Progress,9
+JS0334,2025-01-19,Rajasthan,Health,I have submitted several requests regarding doctor. The department has not resolved my complaint yet.,Medium,Resolved,12
+JS0335,2025-06-02,Karnataka,Education,Urgent complaint regarding teacher. Immediate action is required because the issue is affecting daily life.,High,In Progress,15
+JS0336,2025-10-06,Karnataka,Health,I would like to request information and assistance regarding medical treatment. Kindly guide me.,Low,Resolved,12
+JS0337,2025-02-27,Madhya Pradesh,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,Pending,13
+JS0338,2025-06-22,Madhya Pradesh,Water Supply,I have submitted several requests regarding water pipeline. The department has not resolved my complaint yet.,Medium,In Progress,7
+JS0339,2025-08-07,Karnataka,Education,I have submitted several requests regarding scholarship. The department has not resolved my complaint yet.,Medium,Resolved,19
+JS0340,2025-03-13,Rajasthan,Health,I have submitted several requests regarding medicine. The department has not resolved my complaint yet.,Medium,Resolved,12
+JS0341,2025-08-17,Madhya Pradesh,Education,I would like to request information and assistance regarding school. Kindly guide me.,Low,Resolved,5
+JS0342,2025-05-14,Madhya Pradesh,Electricity,I have submitted several requests regarding power outage. The department has not resolved my complaint yet.,Medium,In Progress,7
+JS0343,2025-06-07,Gujarat,Education,I have submitted several requests regarding school. The department has not resolved my complaint yet.,Medium,Resolved,21
+JS0344,2025-07-08,Karnataka,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,Pending,16
+JS0345,2025-11-07,Madhya Pradesh,Education,I have submitted several requests regarding scholarship. The department has not resolved my complaint yet.,Medium,Resolved,21
+JS0346,2025-04-22,Gujarat,Social Welfare,Urgent complaint regarding senior citizen benefit. Immediate action is required because the issue is affecting daily life.,High,In Progress,40
+JS0347,2025-07-05,Maharashtra,Social Welfare,I have submitted several requests regarding pension. The department has not resolved my complaint yet.,Medium,In Progress,23
+JS0348,2025-09-16,Gujarat,Health,Urgent complaint regarding hospital. Immediate action is required because the issue is affecting daily life.,High,In Progress,43
+JS0349,2025-09-24,Rajasthan,Social Welfare,I would like to request information and assistance regarding financial assistance. Kindly guide me.,Low,Pending,15
+JS0350,2025-08-17,Maharashtra,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,Resolved,23
+JS0351,2025-01-30,Karnataka,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,Resolved,25
+JS0352,2025-04-22,Karnataka,Electricity,I have submitted several requests regarding electricity. The department has not resolved my complaint yet.,Medium,Pending,7
+JS0353,2025-10-05,Maharashtra,Health,I would like to request information and assistance regarding medicine. Kindly guide me.,Low,Pending,3
+JS0354,2025-03-11,Rajasthan,Water Supply,I would like to request information and assistance regarding water supply. Kindly guide me.,Low,Resolved,4
+JS0355,2025-07-13,Rajasthan,Water Supply,Urgent complaint regarding water shortage. Immediate action is required because the issue is affecting daily life.,High,Pending,44
+JS0356,2025-03-02,Gujarat,Social Welfare,I have submitted several requests regarding financial assistance. The department has not resolved my complaint yet.,Medium,In Progress,18
+JS0357,2025-01-02,Maharashtra,Water Supply,I would like to request information and assistance regarding water connection. Kindly guide me.,Low,Resolved,5
+JS0358,2025-04-28,Gujarat,Water Supply,I have submitted several requests regarding water connection. The department has not resolved my complaint yet.,Medium,Resolved,19
+JS0359,2025-02-27,Maharashtra,Electricity,I would like to request information and assistance regarding power supply. Kindly guide me.,Low,In Progress,13
+JS0360,2025-01-09,Gujarat,Water Supply,Urgent complaint regarding water connection. Immediate action is required because the issue is affecting daily life.,High,Pending,43
+JS0361,2025-11-03,Maharashtra,Health,I have submitted several requests regarding hospital. The department has not resolved my complaint yet.,Medium,Pending,21
+JS0362,2025-04-22,Maharashtra,Health,I have submitted several requests regarding medicine. The department has not resolved my complaint yet.,Medium,Pending,24
+JS0363,2025-10-22,Madhya Pradesh,Social Welfare,I would like to request information and assistance regarding widow pension. Kindly guide me.,Low,In Progress,13
+JS0364,2025-09-24,Gujarat,Social Welfare,I would like to request information and assistance regarding widow pension. Kindly guide me.,Low,Resolved,4
+JS0365,2025-03-31,Rajasthan,Electricity,I would like to request information and assistance regarding electricity bill. Kindly guide me.,Low,In Progress,11
+JS0366,2025-11-26,Rajasthan,Water Supply,Urgent complaint regarding water supply. Immediate action is required because the issue is affecting daily life.,High,In Progress,45
+JS0367,2025-07-12,Gujarat,Electricity,I have submitted several requests regarding transformer. The department has not resolved my complaint yet.,Medium,In Progress,16
+JS0368,2025-03-15,Rajasthan,Water Supply,Urgent complaint regarding drinking water. Immediate action is required because the issue is affecting daily life.,High,Pending,24
+JS0369,2025-09-29,Gujarat,Social Welfare,Urgent complaint regarding senior citizen benefit. Immediate action is required because the issue is affecting daily life.,High,Resolved,32
+JS0370,2025-02-10,Rajasthan,Education,I would like to request information and assistance regarding teacher. Kindly guide me.,Low,Resolved,12
+JS0371,2025-01-27,Madhya Pradesh,Health,I have submitted several requests regarding health services. The department has not resolved my complaint yet.,Medium,Resolved,13
+JS0372,2025-04-07,Karnataka,Social Welfare,I would like to request information and assistance regarding social welfare scheme. Kindly guide me.,Low,In Progress,3
+JS0373,2025-06-05,Maharashtra,Social Welfare,I have submitted several requests regarding financial assistance. The department has not resolved my complaint yet.,Medium,Pending,17
+JS0374,2025-05-05,Karnataka,Education,I have submitted several requests regarding school. The department has not resolved my complaint yet.,Medium,In Progress,22
+JS0375,2025-06-14,Madhya Pradesh,Education,Urgent complaint regarding student admission. Immediate action is required because the issue is affecting daily life.,High,Resolved,32
+JS0376,2025-05-14,Madhya Pradesh,Water Supply,I have submitted several requests regarding water connection. The department has not resolved my complaint yet.,Medium,In Progress,16
+JS0377,2025-08-29,Madhya Pradesh,Water Supply,I would like to request information and assistance regarding water shortage. Kindly guide me.,Low,Pending,13
+JS0378,2025-04-24,Gujarat,Electricity,I have submitted several requests regarding electricity bill. The department has not resolved my complaint yet.,Medium,Pending,25
+JS0379,2025-08-02,Madhya Pradesh,Electricity,Urgent complaint regarding power outage. Immediate action is required because the issue is affecting daily life.,High,Pending,33
+JS0380,2025-05-06,Rajasthan,Education,I would like to request information and assistance regarding teacher. Kindly guide me.,Low,In Progress,11
+JS0381,2025-11-25,Rajasthan,Electricity,Urgent complaint regarding electricity bill. Immediate action is required because the issue is affecting daily life.,High,Resolved,30
+JS0382,2025-10-07,Rajasthan,Education,I would like to request information and assistance regarding teacher. Kindly guide me.,Low,Pending,13
+JS0383,2025-01-25,Maharashtra,Social Welfare,I have submitted several requests regarding pension. The department has not resolved my complaint yet.,Medium,Resolved,9
+JS0384,2025-01-05,Gujarat,Education,I would like to request information and assistance regarding scholarship. Kindly guide me.,Low,In Progress,4
+JS0385,2025-11-12,Rajasthan,Water Supply,I would like to request information and assistance regarding water pipeline. Kindly guide me.,Low,In Progress,12
+JS0386,2025-07-30,Maharashtra,Water Supply,I would like to request information and assistance regarding water supply. Kindly guide me.,Low,Pending,10
+JS0387,2025-01-09,Karnataka,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,In Progress,16
+JS0388,2025-09-26,Gujarat,Water Supply,I would like to request information and assistance regarding drinking water. Kindly guide me.,Low,Pending,3
+JS0389,2025-05-17,Rajasthan,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,Pending,18
+JS0390,2025-04-26,Madhya Pradesh,Electricity,I have submitted several requests regarding transformer. The department has not resolved my complaint yet.,Medium,In Progress,14
+JS0391,2025-07-13,Karnataka,Health,I would like to request information and assistance regarding hospital. Kindly guide me.,Low,Resolved,8
+JS0392,2025-09-13,Rajasthan,Health,I have submitted several requests regarding hospital. The department has not resolved my complaint yet.,Medium,In Progress,9
+JS0393,2025-09-28,Maharashtra,Electricity,Urgent complaint regarding power outage. Immediate action is required because the issue is affecting daily life.,High,Pending,18
+JS0394,2025-02-08,Madhya Pradesh,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,In Progress,8
+JS0395,2025-06-11,Maharashtra,Social Welfare,I would like to request information and assistance regarding pension. Kindly guide me.,Low,Pending,15
+JS0396,2025-07-23,Maharashtra,Social Welfare,Urgent complaint regarding financial assistance. Immediate action is required because the issue is affecting daily life.,High,Resolved,37
+JS0397,2025-07-19,Karnataka,Education,I would like to request information and assistance regarding education. Kindly guide me.,Low,Resolved,15
+JS0398,2025-02-10,Karnataka,Water Supply,Urgent complaint regarding drinking water. Immediate action is required because the issue is affecting daily life.,High,In Progress,37
+JS0399,2025-02-08,Madhya Pradesh,Electricity,I would like to request information and assistance regarding electricity. Kindly guide me.,Low,In Progress,5
+JS0400,2025-01-16,Madhya Pradesh,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,Resolved,17
+JS0401,2025-08-10,Gujarat,Water Supply,I have submitted several requests regarding drinking water. The department has not resolved my complaint yet.,Medium,In Progress,19
+JS0402,2025-06-01,Gujarat,Social Welfare,I would like to request information and assistance regarding senior citizen benefit. Kindly guide me.,Low,In Progress,11
+JS0403,2025-11-21,Gujarat,Health,I would like to request information and assistance regarding hospital. Kindly guide me.,Low,In Progress,8
+JS0404,2025-01-03,Madhya Pradesh,Water Supply,I have submitted several requests regarding water pipeline. The department has not resolved my complaint yet.,Medium,Resolved,9
+JS0405,2025-04-06,Rajasthan,Electricity,I would like to request information and assistance regarding electricity bill. Kindly guide me.,Low,Resolved,3
+JS0406,2025-01-14,Maharashtra,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,Resolved,10
+JS0407,2025-07-17,Maharashtra,Social Welfare,I have submitted several requests regarding pension. The department has not resolved my complaint yet.,Medium,Resolved,17
+JS0408,2025-10-14,Gujarat,Water Supply,Urgent complaint regarding water shortage. Immediate action is required because the issue is affecting daily life.,High,In Progress,38
+JS0409,2025-03-13,Madhya Pradesh,Social Welfare,I have submitted several requests regarding financial assistance. The department has not resolved my complaint yet.,Medium,Resolved,12
+JS0410,2025-08-11,Madhya Pradesh,Electricity,I would like to request information and assistance regarding transformer. Kindly guide me.,Low,Resolved,4
+JS0411,2025-05-09,Gujarat,Electricity,Urgent complaint regarding transformer. Immediate action is required because the issue is affecting daily life.,High,In Progress,26
+JS0412,2025-02-24,Gujarat,Water Supply,I have submitted several requests regarding water connection. The department has not resolved my complaint yet.,Medium,Resolved,21
+JS0413,2025-07-14,Madhya Pradesh,Health,I would like to request information and assistance regarding medicine. Kindly guide me.,Low,Resolved,11
+JS0414,2025-11-01,Gujarat,Electricity,Urgent complaint regarding transformer. Immediate action is required because the issue is affecting daily life.,High,Resolved,42
+JS0415,2025-09-03,Madhya Pradesh,Electricity,Urgent complaint regarding power outage. Immediate action is required because the issue is affecting daily life.,High,Pending,21
+JS0416,2025-11-21,Rajasthan,Water Supply,I would like to request information and assistance regarding water pipeline. Kindly guide me.,Low,In Progress,13
+JS0417,2025-07-06,Maharashtra,Education,I have submitted several requests regarding teacher. The department has not resolved my complaint yet.,Medium,In Progress,19
+JS0418,2025-10-09,Maharashtra,Education,Urgent complaint regarding education. Immediate action is required because the issue is affecting daily life.,High,In Progress,20
+JS0419,2025-02-05,Rajasthan,Water Supply,I have submitted several requests regarding drinking water. The department has not resolved my complaint yet.,Medium,In Progress,16
+JS0420,2025-05-10,Gujarat,Water Supply,I have submitted several requests regarding drinking water. The department has not resolved my complaint yet.,Medium,In Progress,14
+JS0421,2025-09-03,Karnataka,Water Supply,I would like to request information and assistance regarding water shortage. Kindly guide me.,Low,Resolved,11
+JS0422,2025-08-03,Karnataka,Social Welfare,Urgent complaint regarding social welfare scheme. Immediate action is required because the issue is affecting daily life.,High,Pending,42
+JS0423,2025-02-25,Gujarat,Electricity,I have submitted several requests regarding power outage. The department has not resolved my complaint yet.,Medium,In Progress,9
+JS0424,2025-10-16,Rajasthan,Electricity,I have submitted several requests regarding power supply. The department has not resolved my complaint yet.,Medium,Resolved,8
+JS0425,2025-04-24,Karnataka,Water Supply,I would like to request information and assistance regarding water supply. Kindly guide me.,Low,In Progress,6
+JS0426,2025-04-24,Rajasthan,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,Resolved,25
+JS0427,2025-09-14,Gujarat,Water Supply,Urgent complaint regarding water shortage. Immediate action is required because the issue is affecting daily life.,High,Resolved,33
+JS0428,2025-02-13,Maharashtra,Health,I would like to request information and assistance regarding medicine. Kindly guide me.,Low,In Progress,8
+JS0429,2025-04-16,Karnataka,Education,I would like to request information and assistance regarding teacher. Kindly guide me.,Low,Resolved,9
+JS0430,2025-08-20,Madhya Pradesh,Electricity,I would like to request information and assistance regarding transformer. Kindly guide me.,Low,Pending,13
+JS0431,2025-01-12,Madhya Pradesh,Electricity,Urgent complaint regarding electricity. Immediate action is required because the issue is affecting daily life.,High,In Progress,18
+JS0432,2025-05-05,Karnataka,Health,Urgent complaint regarding doctor. Immediate action is required because the issue is affecting daily life.,High,Pending,38
+JS0433,2025-08-25,Gujarat,Social Welfare,I would like to request information and assistance regarding financial assistance. Kindly guide me.,Low,Resolved,8
+JS0434,2025-07-22,Maharashtra,Education,I have submitted several requests regarding scholarship. The department has not resolved my complaint yet.,Medium,In Progress,20
+JS0435,2025-07-19,Maharashtra,Social Welfare,I have submitted several requests regarding financial assistance. The department has not resolved my complaint yet.,Medium,In Progress,20
+JS0436,2025-02-02,Karnataka,Education,I would like to request information and assistance regarding scholarship. Kindly guide me.,Low,Pending,13
+JS0437,2025-08-23,Maharashtra,Social Welfare,I have submitted several requests regarding financial assistance. The department has not resolved my complaint yet.,Medium,Resolved,13
+JS0438,2025-11-02,Rajasthan,Water Supply,Urgent complaint regarding water connection. Immediate action is required because the issue is affecting daily life.,High,In Progress,25
+JS0439,2025-08-23,Karnataka,Water Supply,I would like to request information and assistance regarding water connection. Kindly guide me.,Low,Pending,7
+JS0440,2025-06-10,Maharashtra,Electricity,I have submitted several requests regarding power outage. The department has not resolved my complaint yet.,Medium,Pending,11
+JS0441,2025-03-14,Karnataka,Electricity,I would like to request information and assistance regarding electricity. Kindly guide me.,Low,Resolved,13
+JS0442,2025-08-05,Gujarat,Water Supply,I would like to request information and assistance regarding water connection. Kindly guide me.,Low,Resolved,8
+JS0443,2025-05-28,Gujarat,Social Welfare,I have submitted several requests regarding financial assistance. The department has not resolved my complaint yet.,Medium,Pending,22
+JS0444,2025-01-05,Rajasthan,Electricity,I have submitted several requests regarding transformer. The department has not resolved my complaint yet.,Medium,Pending,18
+JS0445,2025-09-11,Rajasthan,Education,Urgent complaint regarding student admission. Immediate action is required because the issue is affecting daily life.,High,In Progress,31
+JS0446,2025-09-08,Gujarat,Water Supply,I have submitted several requests regarding water shortage. The department has not resolved my complaint yet.,Medium,Pending,21
+JS0447,2025-05-30,Maharashtra,Social Welfare,Urgent complaint regarding pension. Immediate action is required because the issue is affecting daily life.,High,Resolved,22
+JS0448,2025-08-23,Karnataka,Education,I would like to request information and assistance regarding education. Kindly guide me.,Low,In Progress,14
+JS0449,2025-02-28,Madhya Pradesh,Water Supply,I have submitted several requests regarding water connection. The department has not resolved my complaint yet.,Medium,In Progress,25
+JS0450,2025-08-14,Karnataka,Electricity,Urgent complaint regarding power outage. Immediate action is required because the issue is affecting daily life.,High,Pending,16
+JS0451,2025-06-02,Maharashtra,Water Supply,I have submitted several requests regarding water supply. The department has not resolved my complaint yet.,Medium,Resolved,14
+JS0452,2025-08-13,Maharashtra,Electricity,Urgent complaint regarding electricity bill. Immediate action is required because the issue is affecting daily life.,High,Pending,17
+JS0453,2025-03-26,Karnataka,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,Pending,20
+JS0454,2025-06-29,Karnataka,Education,Urgent complaint regarding scholarship. Immediate action is required because the issue is affecting daily life.,High,Resolved,33
+JS0455,2025-05-30,Madhya Pradesh,Social Welfare,I would like to request information and assistance regarding social welfare scheme. Kindly guide me.,Low,In Progress,13
+JS0456,2025-02-18,Gujarat,Electricity,Urgent complaint regarding power outage. Immediate action is required because the issue is affecting daily life.,High,Resolved,36
+JS0457,2025-03-09,Gujarat,Health,Urgent complaint regarding medical treatment. Immediate action is required because the issue is affecting daily life.,High,Pending,19
+JS0458,2025-07-21,Rajasthan,Electricity,Urgent complaint regarding power supply. Immediate action is required because the issue is affecting daily life.,High,Pending,36
+JS0459,2025-08-20,Maharashtra,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,In Progress,19
+JS0460,2025-07-08,Rajasthan,Health,I have submitted several requests regarding medicine. The department has not resolved my complaint yet.,Medium,Resolved,15
+JS0461,2025-02-17,Rajasthan,Electricity,I would like to request information and assistance regarding power outage. Kindly guide me.,Low,In Progress,14
+JS0462,2025-04-22,Rajasthan,Electricity,Urgent complaint regarding electricity. Immediate action is required because the issue is affecting daily life.,High,Pending,27
+JS0463,2025-06-22,Karnataka,Water Supply,I would like to request information and assistance regarding water pipeline. Kindly guide me.,Low,In Progress,6
+JS0464,2025-06-25,Maharashtra,Education,Urgent complaint regarding education. Immediate action is required because the issue is affecting daily life.,High,Pending,40
+JS0465,2025-03-22,Rajasthan,Health,I would like to request information and assistance regarding medicine. Kindly guide me.,Low,Resolved,15
+JS0466,2025-03-09,Madhya Pradesh,Health,I would like to request information and assistance regarding medicine. Kindly guide me.,Low,Pending,13
+JS0467,2025-02-12,Madhya Pradesh,Electricity,I have submitted several requests regarding electricity. The department has not resolved my complaint yet.,Medium,In Progress,15
+JS0468,2025-04-30,Rajasthan,Education,I have submitted several requests regarding school. The department has not resolved my complaint yet.,Medium,In Progress,16
+JS0469,2025-02-09,Gujarat,Health,I would like to request information and assistance regarding hospital. Kindly guide me.,Low,In Progress,9
+JS0470,2025-01-05,Madhya Pradesh,Education,I have submitted several requests regarding education. The department has not resolved my complaint yet.,Medium,Pending,7
+JS0471,2025-07-16,Maharashtra,Water Supply,I have submitted several requests regarding drinking water. The department has not resolved my complaint yet.,Medium,In Progress,14
+JS0472,2025-03-12,Rajasthan,Health,I would like to request information and assistance regarding hospital. Kindly guide me.,Low,Pending,6
+JS0473,2025-11-09,Gujarat,Education,I have submitted several requests regarding school. The department has not resolved my complaint yet.,Medium,Resolved,7
+JS0474,2025-07-30,Karnataka,Electricity,I have submitted several requests regarding power supply. The department has not resolved my complaint yet.,Medium,In Progress,11
+JS0475,2025-03-13,Maharashtra,Water Supply,I would like to request information and assistance regarding drinking water. Kindly guide me.,Low,In Progress,3
+JS0476,2025-03-13,Gujarat,Water Supply,Urgent complaint regarding water pipeline. Immediate action is required because the issue is affecting daily life.,High,Resolved,25
+JS0477,2025-01-14,Madhya Pradesh,Health,I have submitted several requests regarding doctor. The department has not resolved my complaint yet.,Medium,Pending,16
+JS0478,2025-06-01,Maharashtra,Social Welfare,I have submitted several requests regarding social welfare scheme. The department has not resolved my complaint yet.,Medium,Pending,19
+JS0479,2025-11-23,Karnataka,Water Supply,I would like to request information and assistance regarding water shortage. Kindly guide me.,Low,Pending,9
+JS0480,2025-06-12,Gujarat,Social Welfare,Urgent complaint regarding pension. Immediate action is required because the issue is affecting daily life.,High,Resolved,44
+JS0481,2025-08-30,Maharashtra,Social Welfare,I have submitted several requests regarding senior citizen benefit. The department has not resolved my complaint yet.,Medium,Pending,12
+JS0482,2025-01-21,Maharashtra,Social Welfare,I would like to request information and assistance regarding pension. Kindly guide me.,Low,Resolved,5
+JS0483,2025-08-01,Rajasthan,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,In Progress,23
+JS0484,2025-11-12,Gujarat,Water Supply,I have submitted several requests regarding water supply. The department has not resolved my complaint yet.,Medium,Resolved,24
+JS0485,2025-03-21,Karnataka,Health,I would like to request information and assistance regarding medical treatment. Kindly guide me.,Low,Resolved,5
+JS0486,2025-06-08,Rajasthan,Water Supply,I have submitted several requests regarding water connection. The department has not resolved my complaint yet.,Medium,In Progress,9
+JS0487,2025-03-01,Rajasthan,Education,I would like to request information and assistance regarding school. Kindly guide me.,Low,In Progress,8
+JS0488,2025-03-31,Maharashtra,Social Welfare,I would like to request information and assistance regarding pension. Kindly guide me.,Low,Pending,13
+JS0489,2025-09-25,Karnataka,Education,I would like to request information and assistance regarding school. Kindly guide me.,Low,In Progress,7
+JS0490,2025-03-02,Maharashtra,Electricity,I have submitted several requests regarding power supply. The department has not resolved my complaint yet.,Medium,Resolved,15
+JS0491,2025-10-23,Maharashtra,Water Supply,I have submitted several requests regarding water pipeline. The department has not resolved my complaint yet.,Medium,Resolved,15
+JS0492,2025-10-18,Gujarat,Water Supply,I have submitted several requests regarding water connection. The department has not resolved my complaint yet.,Medium,Resolved,22
+JS0493,2025-10-21,Maharashtra,Education,Urgent complaint regarding teacher. Immediate action is required because the issue is affecting daily life.,High,Pending,43
+JS0494,2025-01-07,Gujarat,Social Welfare,I would like to request information and assistance regarding pension. Kindly guide me.,Low,Pending,15
+JS0495,2025-04-02,Maharashtra,Water Supply,I have submitted several requests regarding water pipeline. The department has not resolved my complaint yet.,Medium,In Progress,11
+JS0496,2025-06-13,Madhya Pradesh,Water Supply,I would like to request information and assistance regarding drinking water. Kindly guide me.,Low,Pending,8
+JS0497,2025-01-27,Gujarat,Social Welfare,I would like to request information and assistance regarding widow pension. Kindly guide me.,Low,Pending,12
+JS0498,2025-08-27,Madhya Pradesh,Social Welfare,Urgent complaint regarding pension. Immediate action is required because the issue is affecting daily life.,High,Resolved,17
+JS0499,2025-07-08,Gujarat,Electricity,I have submitted several requests regarding electricity. The department has not resolved my complaint yet.,Medium,Resolved,7
+JS0500,2025-08-26,Madhya Pradesh,Social Welfare,I have submitted several requests regarding widow pension. The department has not resolved my complaint yet.,Medium,In Progress,14
